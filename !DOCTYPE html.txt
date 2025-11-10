@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LifeX AI Tools</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f7f9fc; color: #333; margin: 0; padding: 0; }
+    header { background: #4a00e0; color: white; text-align: center; padding: 2rem 1rem; }
+    h1 { margin: 0; }
+    section { padding: 2rem; text-align: center; }
+    .tool { background: white; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin: 1rem auto; padding: 1rem; max-width: 600px; }
+    iframe { width: 100%; height: 500px; border: none; border-radius: 12px; }
+    footer { background: #222; color: white; padding: 1rem; text-align: center; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🚀 LifeX AI Tools</h1>
+    <p>All your AI prompts and tools — free and online</p>
+  </header>
+
+  <section>
+    <h2>✨ My AI Demo</h2>
+    <div class="tool">
+      <p>Example AI Tool Embed (Replace below link with your Hugging Face Space):</p>
+      <iframe src="https://huggingface.co/spaces/your-username/your-space-name/embed"></iframe>
+    </div>
+
+    <h3>🧠 My Prompt:</h3>
+    <p>
+      "Enter your AI prompt or text here. Example: Generate creative website ideas for LifeX users."
+    </p>
+  </section>
+
+  <footer>
+    <p>© 2025 LifeX — Created with ❤️ using GitHub Pages</p>
+  </footer>
+</body>
+</html>
